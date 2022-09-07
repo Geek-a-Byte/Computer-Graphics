@@ -9,3 +9,4 @@ glOrtho(-1, 1.0, -1, 1.0, 1.0, -1.0);
 
 ### installation
 - https://www.codewithc.com/how-to-setup-opengl-glut-in-codeblocks/
+- http://www.aksiom.net/rgb.html
