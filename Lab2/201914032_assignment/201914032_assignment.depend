@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1663961415 source:c:\users\saima\onedrive - military institute of science and technology (mist)\desktop\opengl\201914032_assignment\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+
+1662473010 c:\program files\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
