@@ -10,3 +10,6 @@ CSE 414
 
 - OpenGL Setup Step by Step Link: https://www.codewithc.com/how-to-setup-opengl-glut-in-codeblocks/
 - http://www.aksiom.net/rgb.html
+
+### ``lab2 assignment``
+![image](https://user-images.githubusercontent.com/59027621/192090372-06ed2bec-4096-446a-ad3a-fb46dc82c26c.png)
