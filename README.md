@@ -13,3 +13,6 @@ CSE 414
 
 ### ``lab2 assignment``
 ![image](https://user-images.githubusercontent.com/59027621/192090372-06ed2bec-4096-446a-ad3a-fb46dc82c26c.png)
+
+### ```lab3```
+![image](https://user-images.githubusercontent.com/59027621/196733334-b558b140-afb3-4285-a167-04d095456add.png)
